@@ -1,0 +1,2 @@
+# bestPractices
+another java project
